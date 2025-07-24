@@ -20,7 +20,7 @@ body{
 }
 .main{background-color: hsl(0, 0%, 100%);
     width: 600px;
-    height: 450px;
+    height: 451px;
     display: flex;
     flex-direction: row-reverse;
     margin-top: auto;
